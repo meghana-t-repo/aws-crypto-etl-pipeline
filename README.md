@@ -74,7 +74,7 @@ Region (e.g., us-east-2)
 
 Output: json
 
-⚠️ Do NOT commit your credentials.
+Do NOT commit your credentials.
 
 3️. Run ingestion script
 python extract_crypto_to_s3.py
